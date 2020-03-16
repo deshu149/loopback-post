@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Posts": 4
+  },
+  "models": {
+    "Posts": {
+      "1": "{\"title\":\"Take over the galaxy\",\"desc\":\"Make sure there are no survivors left!\",\"image\":\"https://www.w3schools.com/html/pic_trulli.jpg\",\"id\":1}",
+      "2": "{\"title\":\"play space invaders\",\"desc\":\"Become the very best!\",\"image\":\"https://www.w3schools.com/html/img_girl.jpg\",\"id\":2}",
+      "3": "{\"title\":\"Lorem Ipsum\",\"desc\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s\",\"image\":\"https://www.w3schools.com/images/w3schools_green.jpg\",\"isComplete\":true,\"id\":3}"
+    }
+  }
+}
